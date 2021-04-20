@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://georgecondit.github.io/blogsitemap.xml
